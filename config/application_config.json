@@ -1,0 +1,35 @@
+{
+    "app_title": "Application",
+    "app_custom_id": "test_custom:id",
+    "button_name": "APPLY NOW",
+    "embed_name": "Application form",
+    "embed_colour": "163, 128, 255",
+    "embed_description": "**Trial** - we give you 1 month to improve your skill.\n\n**Accept** - this means that you are accepted into the squad.\n\n**Decline** - this means that your edit still needs to be improved, and it does not pass into the accept category, come back next time.\n\n**Reapp** - it's like a decline, but you can already resend the application without waiting for the apps to open again.\n\n **Applications rules:** \n 1.Edit must be longer than 10 seconds. \n 2.Anime edits, Game edits, 3D edits are allow. \n 3.Collabs, remakes are not allowed. Heavy ib also are not allowed. \n 4.Loops are allowed. 5.Stolen edits are not allowed.",
+    "submit_channel_id": 1028751841095336067,
+    "questions": [
+        {
+            "question": "Link to ur instagram or youtube",
+            "placeholder": "ex. https://youtube.com/@1kurumi",
+            "required": true,
+            "style": "input",
+            "input_style": "short",
+            "custom_id": "test_id"
+        },
+        {
+            "question": "Link to ur edit(youtube, insta or streamable)",
+            "placeholder": "ex. https://youtube.com/watch?=54hgtufop",
+            "required": true,
+            "style": "input",
+            "input_style": "short",
+            "custom_id": "test_id_2"
+        },
+        {
+            "question": "Why would you like to join euphoria?",
+            "placeholder": "ex. i lav euphoria team",
+            "required": true,
+            "style": "input",
+            "input_style": "short",
+            "custom_id": "custom_id_short"
+        }
+    ]
+}

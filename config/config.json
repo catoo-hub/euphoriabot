@@ -1,0 +1,10 @@
+{
+	"prefix" : "%",
+	"guild_ids" : [
+		1028751834845818924
+	],
+	"questions_timeout" : 0,
+	"confirmation_timeout" : 0,
+
+	"admin_role_id" : 1028751834845818931
+}
